@@ -1,0 +1,12 @@
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\bin\Debug\baitaplamviecnham.exe.config
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\bin\Debug\baitaplamviecnham.exe
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\bin\Debug\baitaplamviecnham.pdb
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\obj\Debug\baitaplamviecnham.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\obj\Debug\baitaplamviecnham.Form1.resources
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\obj\Debug\baitaplamviecnham.Form2.resources
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\obj\Debug\baitaplamviecnham.Properties.Resources.resources
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\obj\Debug\baitaplamviecnham.csproj.GenerateResource.cache
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\obj\Debug\baitaplamviecnham.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\obj\Debug\baitaplamviecnham.exe
+c:\users\lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\obj\Debug\baitaplamviecnham.pdb
+C:\Users\Lenovo\source\repos\baitaplamviecnham\baitaplamviecnham\obj\Debug\baitaplamviecnham.Form3.resources
